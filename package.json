@@ -22,8 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "eslint ./src/**.*{js,jsx} --fix",
-    "postinstall": "npm audit fix --force"
+    "lint": "eslint ./src/**.*{js,jsx} --fix"
   },
   "engines": {
     "node": "20.x"
