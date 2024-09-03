@@ -26,7 +26,7 @@
     "postinstall": "npm audit fix --force"
   },
   "engines": {
-    "node": "14.x"
+    "node": "20.x"
   },
   "eslintConfig": {
     "extends": "react-app"
